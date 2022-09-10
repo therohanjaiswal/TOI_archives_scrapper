@@ -1,5 +1,5 @@
-# toi-scraper
-Times of India Archive Scrapper
+# Times of India Archives scrapper
+Times of India Archive Scrapper for news article data curation for text and image data.
 
 
 required python 3
